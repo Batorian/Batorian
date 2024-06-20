@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<h3 align="center">GitHub Stats:</h3>
 <div align="center">
+    <h3>GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="150" alt="github stats" />
     <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="150" alt="streak stats" />
 </div>
@@ -21,7 +21,7 @@
     <a href="https://www.android.com/">
         <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo" />
     </a>
-    <span style="width: 20px; display: inline-block;"></span> <!-- Platzhalter -->
+    <img width="20" />
     <a href="https://developer.android.com/studio">
         <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo" />
     </a>
