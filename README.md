@@ -21,7 +21,7 @@
     <a href="https://www.android.com/">
         <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo" />
     </a>
-    <img width="20" />
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/w8AAwAB/EBjJ8AAAAABJRU5ErkJggg==" width="20" />
     <a href="https://developer.android.com/studio">
         <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo" />
     </a>
