@@ -15,14 +15,12 @@
 <div align="center">
     <h3>Contributions:</h3>
     <a href="https://github.com/LNReader/lnreader">
-        <img src="https://lnreader.github.io/ico.png" height="30" alt="lnreader" />
+        <img src="https://lnreader.github.io/ico.png" height="30" alt="lnreader" style="margin: 10px;" />
     </a>
     <h3>Tools:</h3>
-    <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
-    <span style="display: inline-block; width: 12px;"></span>
-    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo" />
-    <span style="display: inline-block; width: 12px;"></span>
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+    <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" style="margin: 10px;" />
+    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" style="margin: 10px;" />
 </div>
 
 ###
