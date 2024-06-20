@@ -28,13 +28,6 @@
 
 ###
 
-<div align="left">
-    <h3>Visitor Count:</h3>
-    <img src="https://komarev.com/ghpvc/?username=Batorian&color=blue" alt="visitor count" />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Batorian/Batorian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
