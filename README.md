@@ -27,7 +27,7 @@
     </a>
     <img width="20" />
     <a href="https://www.jetbrains.com/idea/">
-        <img src="https://cdn.simpleicons.org/intellijidea" height="50" alt="intellij idea logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" height="50" alt="intellij idea logo" />
     </a>
     <img width="20" />
     <a href="https://www.python.org/">
