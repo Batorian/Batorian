@@ -1,0 +1,40 @@
+import requests
+import os
+
+
+def get_latest_tweet(bearer_token):
+    user_id = "4794829459"
+    url = f'https://api.twitter.com/2/users/{user_id}/tweets'
+    headers = {
+        'Authorization': f'Bearer {bearer_token}',
+    }
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        tweet_data = response.json()
+        latest_tweet = tweet_data['data'][0]['text']
+        return latest_tweet
+    else:
+        raise Exception(f"Error fetching tweets: {response.status_code}")
+
+
+def update_readme(tweet):
+    with open("README.md", "r") as file:
+        lines = file.readlines()
+
+    with open("README.md", "w") as file:
+        in_twitter_section = False
+        for line in lines:
+            if line.strip() == "<!-- TWITTER:START -->":
+                in_twitter_section = True
+                file.write(line)
+                file.write(f"{tweet}\n")
+            elif line.strip() == "<!-- TWITTER:END -->":
+                in_twitter_section = False
+            elif not in_twitter_section:
+                file.write(line)
+
+
+if __name__ == "__main__":
+    bearer_token = os.getenv("TWITTER_BEARER_TOKEN")
+    latest_tweet = get_latest_tweet(bearer_token)
+    update_readme(latest_tweet)
