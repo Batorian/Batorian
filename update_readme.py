@@ -8,7 +8,8 @@ def get_latest_tweet(bearer_token):
         'Authorization': f'Bearer {bearer_token}',
     }
     response = requests.get(url, headers=headers)
-    print(response)
+    print(f"Status Code: {response.status_code}")  # Debugging-Ausgabe
+    print(f"Response Text: {response.text}")  # Debugging-Ausgabe
     if response.status_code == 200:
         tweet_data = response.json()
         latest_tweet = tweet_data['data'][0]['text']
