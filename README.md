@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
     <h3>GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="160" alt="github stats" />
@@ -37,11 +35,13 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Batorian/Batorian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Batorian/Batorian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-<h3>GitHub Trophies:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=Batorian&theme=onedark" alt="github trophies" />
+<div align="center">
+    <h3>GitHub Trophies:</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=Batorian&theme=onedark" alt="github trophies" />
+</div>
