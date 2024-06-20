@@ -6,15 +6,15 @@
 
 <div align="center">
     <h3>GitHub Stats:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="150" alt="github stats" />
-    <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="150" alt="streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="200" alt="github stats" />
+    <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="200" alt="streak stats" />
 </div>
 
 ###
 
 <div align="center">
     <h3>Contributions:</h3>
-    <a href="https://github.com/LNReader/lnreader">
+    <a href="https://github.com/LNReader">
         <img src="https://lnreader.github.io/ico.png" height="50" alt="lnreader" />
     </a>
     <h3>Tools:</h3>
