@@ -6,8 +6,8 @@
 
 <div align="center">
     <h3>GitHub Stats:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="200" alt="github stats" />
-    <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="200" alt="streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="160" alt="github stats" />
+    <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="160" alt="streak stats" />
 </div>
 
 ###
