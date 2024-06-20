@@ -5,6 +5,8 @@
 <br clear="both">
 
 <div align="center">
+    <h3 align="left">GitHub Stats:</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="150" alt="github stats" />
     <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="150" alt="streak stats" />
 </div>
 
@@ -47,9 +49,4 @@
 <h3 align="left">Latest Tweet:</h3>
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
-
-###
-
-<h3 align="left">GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" alt="github stats" />
 
