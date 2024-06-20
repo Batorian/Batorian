@@ -1,11 +1,12 @@
 name: Update README with Latest Tweet
 
 on:
-  schedule:
-    - cron: '0 */12 * * *' # Läuft alle 12 Stunden
+  schedule: # execute every 12 hours
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   update-readme:
