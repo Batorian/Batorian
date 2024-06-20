@@ -18,11 +18,21 @@
         <img src="https://lnreader.github.io/ico.png" height="50" alt="lnreader" />
     </a>
     <h3>Tools:</h3>
-    <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo" />
+    <a href="https://www.android.com/">
+        <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo" />
+    </a>
     <img width="20" />
-    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo" />
+    <a href="https://developer.android.com/studio">
+        <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo" />
+    </a>
     <img width="20" />
-    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+    <a href="https://www.jetbrains.com/idea/">
+        <img src="https://cdn.simpleicons.org/intellijidea" height="50" alt="intellij idea logo" />
+    </a>
+    <img width="20" />
+    <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+    </a>
 </div>
 
 ###
