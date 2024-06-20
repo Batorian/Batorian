@@ -14,12 +14,14 @@
 
 <div align="center">
     <h3>Contributions:</h3>
-    <a href="https://github.com/LNReader/lnreader" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/LNReader/lnreader">
         <img src="https://lnreader.github.io/ico.png" height="50" alt="lnreader" />
     </a>
     <h3>Tools:</h3>
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo" />
+    <img width="20" />
     <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo" />
+    <img width="20" />
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
 </div>
 
