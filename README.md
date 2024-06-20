@@ -40,7 +40,7 @@
 ###
 
 <h3>GitHub Trophies:</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Batorian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Batorian&theme=onedark" alt="github trophies" />
 
 ###
 
@@ -51,5 +51,5 @@
 ###
 
 <h3 align="left">GitHub Stats:</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" alt="github stats" />
 
