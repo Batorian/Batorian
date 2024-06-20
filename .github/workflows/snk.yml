@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
