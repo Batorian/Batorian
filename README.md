@@ -4,8 +4,8 @@
 
 <br clear="both">
 
+<h3 align="center">GitHub Stats:</h3>
 <div align="center">
-    <h3 align="left">GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Batorian&show_icons=true&theme=radical" height="150" alt="github stats" />
     <img src="https://streak-stats.demolab.com?user=Batorian&theme=dracula" height="150" alt="streak stats" />
 </div>
