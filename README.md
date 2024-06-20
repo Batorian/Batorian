@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo" />
+    <img src="https://lnreader.github.io/ico.png" href="https://github.com/LNReader/lnreader" height="30" alt="lnreader" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
     <img width="12" />
