@@ -14,7 +14,7 @@
 
 <div align="center">
     <h3>Contributions:</h3>
-    <a href="https://github.com/LNReader/lnreader">
+    <a href="https://github.com/LNReader/lnreader" target="_blank" rel="noopener noreferrer">
         <img src="https://lnreader.github.io/ico.png" height="50" alt="lnreader" />
     </a>
     <h3>Tools:</h3>
