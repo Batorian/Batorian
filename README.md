@@ -36,10 +36,3 @@
 
 <h3>GitHub Trophies:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Batorian&theme=onedark" alt="github trophies" />
-
-###
-
-<h3 align="left">Latest Tweet:</h3>
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
