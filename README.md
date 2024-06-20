@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/7x7s61.gif" />
-
-###
-
 <div align="center">
     <h3>Contributions:</h3>
     <a href="https://github.com/LNReader/lnreader">
@@ -28,7 +24,6 @@
     <span style="display: inline-block; width: 12px;"></span>
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 </div>
-
 
 ###
 
