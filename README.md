@@ -17,7 +17,9 @@
 ###
 
 <div align="left">
-    <img src="https://lnreader.github.io/ico.png" href="https://github.com/LNReader/lnreader" height="30" alt="lnreader" />
+    <a href="https://github.com/LNReader/lnreader">
+        <img src="https://lnreader.github.io/ico.png" height="30" alt="lnreader" />
+    </a>
     <img width="12" />
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
     <img width="12" />
