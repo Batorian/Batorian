@@ -20,11 +20,11 @@
     <a href="https://github.com/LNReader/lnreader">
         <img src="https://lnreader.github.io/ico.png" height="30" alt="lnreader" />
     </a>
-    <img width="12" />
+    <span style="display: inline-block; width: 12px;"></span>
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
-    <img width="12" />
+    <span style="display: inline-block; width: 12px;"></span>
     <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo" />
-    <img width="12" />
+    <span style="display: inline-block; width: 12px;"></span>
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 </div>
 
